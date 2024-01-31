@@ -23,7 +23,7 @@ public class Main {
         Arrays.sort(my_array1);
         System.out.println("Array 1 - Organizada: " + Arrays.toString(my_array1));
 
-        // ARRAY 2S
+        // ARRAY 2
         System.out.println("Array 2 - Original: " + Arrays.toString(my_array2));
         Arrays.sort(my_array2);
         System.out.println("Array 2 - Organizada: " + Arrays.toString(my_array2));
@@ -89,22 +89,5 @@ public class Main {
         System.out.println(Arrays.toString(valores)); // para imprimir o que esta dentro da array
         TAMANHO DA ARRAY System.out.println(valores.length); // para saber o tamanho da array
         ***/
-
-        /***
-         " "
-         ''
-         \n     pular linha
-         \t     tab
-
-         byte
-         short
-         int
-         long
-         char
-         float
-         double
-         boolean
-
-         ***/
 
     }
